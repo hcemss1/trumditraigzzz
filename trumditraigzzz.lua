@@ -1,4 +1,5 @@
---[[
+-- PHIEN BAN MOI NHAT CUA TRUMDITRAIGZ--
+[[
     ╔══════════════════════════════════════════════════════════╗
     ║        GZ HUB SUPREME - DEVELOPED BY TRUMDITRAIGZ        ║
     ║        TIKTOK: trumditraigz | VERSION: 5.0 (FINAL)       ║
